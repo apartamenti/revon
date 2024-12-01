@@ -1,0 +1,12 @@
+{
+    "name": "REVON",
+    "symbol": "REVON",
+    "description": "Enable customers to pay for goods and services online using REVON token.",
+    "image": "https://revon.net/assets/img/revon.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
